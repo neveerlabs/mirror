@@ -7,6 +7,7 @@
 ```
 mirror/
 ├── view.py     # script utama
+├── README.md   # Buku panduan
 └── .viewrc     # file data
 ```
 
