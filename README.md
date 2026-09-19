@@ -1,7 +1,7 @@
-<a align="center">
+<div align="center">
     <h1>Mirror</h1>
     <p><i>Alat untuk membandingkan sebuah project dari <b>lokal</b> dengan repo <b>Github</b></i></p>
-</a>
+</div>
 
 ## Struktur file
 ```
@@ -38,6 +38,6 @@ mirror/
 
 ---
 
-<a align="center">
+<div align="center">
     <p><b>Made with by Neverlabs</b></p>
-</a>
+</div>
